@@ -8,18 +8,19 @@
 * [Installation Instructions](#installation_instructions)
 * [Contact Information](#contact)
 * 
+[Back to top](#top)
 
 <a class="anchor" id="about the project"></a>
 >## About the Project
-[Back to top](#top)
 Learn how to use GitHub and Git
 - create and sync repos
 - how and when to use push and pull
 
+[Back to top](#top)
+
 
 <a class="anchor" id="tools"></a>
 ## Tools
-[Back to top](#top)
 Include a list of the tools used in the project:
 1. Jupyter Notebook
 2. MySQL
@@ -33,8 +34,10 @@ Include a list of the tools used in the project:
 7. Markdown
 8. html
 
+[Back to top](#top)
+
 <a class="anchor" id="contact"></a>
 ## Contact Information
-[Back to top](#top)
 [Andy Cohen](https://andyscohen.github.io/)
 
+[Back to top](#top)
