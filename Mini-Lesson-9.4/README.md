@@ -11,6 +11,7 @@
 
 <a class="anchor" id="about the project"></a>
 >## About the Project
+[Back to top](#top)
 Learn how to use GitHub and Git
 - create and sync repos
 - how and when to use push and pull
