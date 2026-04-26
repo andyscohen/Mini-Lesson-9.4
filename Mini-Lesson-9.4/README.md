@@ -15,10 +15,11 @@
 Learn how to use GitHub and Git
 - create and sync repos
 - how and when to use push and pull
- 
+
 
 <a class="anchor" id="tools"></a>
->## Tools
+## Tools
+[Back to top](#top)
 Include a list of the tools used in the project:
 1. Jupyter Notebook
 2. MySQL
@@ -33,6 +34,7 @@ Include a list of the tools used in the project:
 8. html
 
 <a class="anchor" id="contact"></a>
->## Contact Information
+## Contact Information
+[Back to top](#top)
 [Andy Cohen](https://andyscohen.github.io/)
 
