@@ -1,4 +1,5 @@
 <a id="top"></a>
+
 <img src="https://as1.ftcdn.net/v2/jpg/09/47/52/32/1000_F_947523221_WS5XtdfPNtU6DxLkk79iqGdQ84M9xVco.jpg" />
 
 # Repository for Activities 9.1 and 9.2
@@ -8,7 +9,7 @@
 * [Tools](#tools)
 * [Installation Instructions](#installation_instructions)
 * [Contact Information](#contact)
-* 
+
 [Back to top](#top)
 
 <a class="anchor" id="about the project"></a>
